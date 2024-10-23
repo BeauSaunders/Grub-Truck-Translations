@@ -1,0 +1,30 @@
+{
+	"Language":"German",
+	"Translations":
+	{
+		"Start":"Starten",
+		"Load":"Laden",
+		"Settings":"Einstellungen",
+		"Feedback":"",
+		"Quit":"Beenden",
+
+		"mm.chars.JoeBloggs.desc":"Liderally Go",
+		
+		"New Game":"Neues Spiel",
+		"Name your Grub Truck business...":"Gib deinem Grub Truck Geschäft einen Namen...",
+		"Tutorial":"",
+		"You need to name your Grub Truck business!":"Du musst deinem Grub Truck Geschäft einen Namen geben!",
+		"This save already exists!":"Dieser Speicherstand existiert bereits!",
+		"Next":"Weiter",
+		
+		"Load Game":"Spiel Laden",
+		"Your saved games will appear here":"Ihre gespeicherten Spiele erscheinen hier",
+		"Are you sure you want to delete this save?":"Bist du sicher, dass du diesen Speicherstand löschen möchtest?",
+		"Yes":"Ja",
+		"Cancel":"Abbrechen",
+		
+		"mm.fb.msg":"Einen Bug gefunden? Oder Feedback? Lass es uns auf Discord wissen.",
+		"mm.fb.report":"Einen Bug melden",
+		"Back":"Zurück",
+	}
+}
