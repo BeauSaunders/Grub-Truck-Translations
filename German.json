@@ -26,5 +26,32 @@
 		"mm.fb.msg":"Einen Bug gefunden? Oder Feedback? Lass es uns auf Discord wissen.",
 		"mm.fb.report":"Einen Bug melden",
 		"Back":"Zurück",
+		
+		"VIDEO":"",
+		"Resolution":"Auflösung",
+		"Graphics":"Grafik",
+		"Display Mode":"Anzeige-Modus",
+		"VSync":"",
+		
+		"AUDIO":"",
+		"Output Device":"Ausgabegerät",
+		"Refresh":"Aktualisieren",
+		"Effects Volume":"Effekte Lautstärke",
+		"Music Volume":"Musiklautstärke",
+		
+		"CONTROLS":"",
+		"Build Mode":"Bau-Modus",
+		"Build Mode Toggle":"Bau-Modus Umschalten",
+		"Rotate Clockwise [Prim]":"Im Uhrzeigersinn drehen [Prim]",
+		"Rotate Anti-Clockwise [Prim]":"Gegen den Uhrzeigersinn drehen [Prim]",
+		"Rotate Clockwise [Secondary]":"Im Uhrzeigersinn drehen [Sekundär]",
+		"Rotate Anti-Clockwise [Secondary]":"Gegen den Uhrzeigersinn drehen [Sekundär]",
+		"Misc":"Sonstiges",
+		"Camera Movement Speed":"Kamerabewegungsgeschwindigkeit",
+		"Toggle Birds Eye Mode":"Vogelperspektive umschalten",
+		"Toggle Order Ticket Zoom":"Bestellticket-Zoom umschalten",
+		"Exit Station":"Station verlassen",
+		"Toggle/Hide UI":"UI umschalten/ausblenden",
+		"Reset Keybinds":"Tastenbelegungen zurücksetzen",
 	}
 }
