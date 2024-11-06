@@ -8,7 +8,8 @@
 		"Feedback":"",
 		"Quit":"Beenden",
 
-		"mm.chars.JoeBloggs.desc":"Liderally Go",
+		"mm.chars.JoeBloggs.desc":"Ein ganz normaler Typ. Vor Kurzem entlassen, möchte Joe seinen Traum vom Unternehmertum verwirklichen und sein eigenes erfolgreiches Grub-Truck-Geschäft führen.",
+		"mm.chars.MillieMeat.desc":"Als Tochter der berüchtigten Metzgerfamilie Meat möchte Millie die Produkte ihrer Familie mit einem Grub-Truck-Unternehmen auf einen größeren Markt bringen.",
 		
 		"New Game":"Neues Spiel",
 		"Name your Grub Truck business...":"Gib deinem Grub Truck Geschäft einen Namen...",
@@ -40,18 +41,28 @@
 		"Music Volume":"Musiklautstärke",
 		
 		"CONTROLS":"",
-		"Build Mode":"Bau-Modus",
+		"st.c.bm":"Bau-Modus",
 		"Build Mode Toggle":"Bau-Modus Umschalten",
 		"Rotate Clockwise [Prim]":"Im Uhrzeigersinn drehen [Prim]",
 		"Rotate Anti-Clockwise [Prim]":"Gegen den Uhrzeigersinn drehen [Prim]",
 		"Rotate Clockwise [Secondary]":"Im Uhrzeigersinn drehen [Sekundär]",
 		"Rotate Anti-Clockwise [Secondary]":"Gegen den Uhrzeigersinn drehen [Sekundär]",
-		"Misc":"Sonstiges",
+		"st.c.misc":"Sonstiges",
 		"Camera Movement Speed":"Kamerabewegungsgeschwindigkeit",
 		"Toggle Birds Eye Mode":"Vogelperspektive umschalten",
 		"Toggle Order Ticket Zoom":"Bestellticket-Zoom umschalten",
 		"Exit Station":"Station verlassen",
 		"Toggle/Hide UI":"UI umschalten/ausblenden",
 		"Reset Keybinds":"Tastenbelegungen zurücksetzen",
+		
+		"MISC":"",
+		"Motion Sickness Mode": "Modus gegen Bewegungskrankheit",
+		"Language": "Sprache",
+		"12H Clock": "12-Stunden-Uhr",
+		"Auto Maximise Order Tickets": "Bestelltickets automatisch maximieren",
+		"Don't Save UI Positions": "UI-Positionen nicht speichern",
+		"Reset All UI Positions": "Alle UI-Positionen zurücksetzen",
+		"View Log File": "Protokolldatei anzeigen",
+		"Open Save Folder": "Speicherordner öffnen",
 	}
 }
