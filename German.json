@@ -2,6 +2,8 @@
 	"Language":"German",
 	"Translations":
 	{
+		"SECTION: MAIN MENU":"",
+		
 		"Start":"Starten",
 		"Load":"Laden",
 		"Settings":"Einstellungen",
@@ -58,9 +60,15 @@
 		"Yes":"Ja",
 		"Cancel":"Abbrechen",
 		
+		
+		"SECTION: FEEDBACK FORM":"",
+		
 		"mm.fb.msg":"Einen Bug gefunden? Oder Feedback? Lass es uns auf Discord wissen.",
 		"mm.fb.report":"Einen Bug melden",
 		"Back":"Zurück",
+		
+		
+		"SECTION: SETTINGS":"",
 		
 		"VIDEO":"",
 		"Resolution":"Auflösung",
@@ -98,5 +106,45 @@
 		"Reset All UI Positions": "Alle UI-Positionen zurücksetzen",
 		"View Log File": "Protokolldatei anzeigen",
 		"Open Save Folder": "Speicherordner öffnen",
+		
+		
+		"SECTION: MAP SCREEN":"",
+		
+		"You Are Here":"Sie sind hier",
+		
+		
+		"SECTION: GRUB RECRUITMENT WEBSITE":"",
+		
+		"Grub Recruitment":"Grub-Rekrutierung",
+		"ms.gr.subtitle":"Nehmen Sie den Fuß vom Pedal und stellen Sie einen Manager ein.",
+		"Your Staff":"Ihr Personal",
+		"Candidates":"Kandidaten",
+		"ms.gr.fees":"Einstellungsgebühr: $90\nEntlassungsgebühr: $10",
+		"Processing Fees":"Bearbeitungsgebühren",
+		"Tip":"Tipp",
+		"ms.gr.tip":"Stellen Sie sicher, dass Ihre Manager den Lastwagen in Ihrer Garage zugewiesen sind. Jeder Lastwagen muss mindestens mit den grundlegenden Geräten für einen ordnungsgemäßen Betrieb ausgestattet sein.",
+	
+		"Common":"Häufig",
+		"Uncommon":"Selten",
+		"Rare":"Rar",
+		"Epic":"Episch",
+		"Legendary":"Legendär",
+		
+		"Experience": "Erfahrung",
+		"N/A": "Nicht verfügbar",
+		"Novice": "Anfänger",
+		"Apprentice": "Lehrling",
+		"Junior": "Junior",
+		"Skilled": "Fähig",
+		"Expert": "Experte",
+		"Senior": "Senior",
+		"Master": "Meister",
+		"Legendary": "Legendär",
+		"Unknown": "Unbekannt",
+		
+		"Wage": "Unbekannt",
+		"ms.gr.wageday": "Tag",
+		
+		"Assigned Truck": "Zugewiesenes Fahrzeug",		
 	}
 }
