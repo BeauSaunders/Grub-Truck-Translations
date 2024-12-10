@@ -2,6 +2,13 @@
 	"Language":"German",
 	"Translations":
 	{
+		"SECTION: COMMON":"",
+		"Yes":"Ja",
+		"Cancel":"Abbrechen",
+		"No":"Nein",
+		"Back":"Zurück",
+		
+		
 		"SECTION: MAIN MENU":"",
 		
 		"Start":"Starten",
@@ -57,15 +64,22 @@
 		"Load Game":"Spiel Laden",
 		"Your saved games will appear here":"Ihre gespeicherten Spiele erscheinen hier",
 		"Are you sure you want to delete this save?":"Bist du sicher, dass du diesen Speicherstand löschen möchtest?",
-		"Yes":"Ja",
-		"Cancel":"Abbrechen",
-		
+
 		
 		"SECTION: FEEDBACK FORM":"",
 		
 		"mm.fb.msg":"Einen Bug gefunden? Oder Feedback? Lass es uns auf Discord wissen.",
 		"mm.fb.report":"Einen Bug melden",
-		"Back":"Zurück",
+		
+		
+		"SECTION: PAUSE MENU":"",
+		
+		"RESUME":"FORTSETZEN",
+		"SAVE GAME":"SPIEL SPEICHERN",
+		"SETTINGS":"EINSTELLUNGEN",
+		"MAIN MENU":"HAUPTMENÜ",
+		"QUIT":"BEENDEN",
+		"pm.savefirst":"Möchten Sie zuerst speichern?",
 		
 		
 		"SECTION: SETTINGS":"",
