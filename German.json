@@ -7,6 +7,7 @@
 		"Cancel":"Abbrechen",
 		"No":"Nein",
 		"Back":"Zurück",
+		"Next":"Weiter",
 		
 		
 		"SECTION: MAIN MENU":"",
@@ -59,7 +60,6 @@
 		"Tutorial":"",
 		"You need to name your Grub Truck business!":"Du musst deinem Grub Truck Geschäft einen Namen geben!",
 		"This save already exists!":"Dieser Speicherstand existiert bereits!",
-		"Next":"Weiter",
 		
 		"Load Game":"Spiel Laden",
 		"Your saved games will appear here":"Ihre gespeicherten Spiele erscheinen hier",
@@ -165,10 +165,24 @@
 		"Master": "Meister",
 		"Legendary": "Legendär",
 		"Unknown": "Unbekannt",
-		
 		"Wage": "Unbekannt",
 		"ms.gr.wageday": "Tag",
-		
 		"Assigned Truck": "Zugewiesenes Fahrzeug",		
+		
+		
+		"SECTION: TUTORIALS":"",
+		
+		"Skip Tutorial":"Tutorial überspringen",
+		
+		"tut_0:0_msg":"Willkommen in Sycamore Woods! Bewege dich durch die Szene, um sie dir anzusehen!",
+		"tut_0:1_msg":"Bewege die Kamera mit den WASD-Tasten [halte UMSCHALT gedrückt, um schneller zu bewegen].",
+		"tut_0:1_task":"Bewege die Kamera",
+		"tut_0:2_msg":"Zoome mit dem Mausrad, wenn sich der Mauszeiger nicht über der Benutzeroberfläche befindet.",
+		"tut_0:2_task":"Zoom die Kamera",
+		"tut_0:3_msg":"Um eine Benutzeroberfläche zu öffnen, klicke einfach auf die Schaltfläche. Schauen wir uns unsere Quest an.",
+		"tut_0:3_task":"Öffne das Quest-Panel",
+		"tut_0:4_msg":"Das Abschließen einer Quest bringt einen erheblichen Bonus. Quests und Belohnungen sind für jeden Charakter unterschiedlich.",
+		"tut_0:5_msg":"Schließe das Panel, indem du auf das Kreuz drückst.",
+		"tut_0:5_task":"Schließe das Quest-Panel",
 	}
 }
