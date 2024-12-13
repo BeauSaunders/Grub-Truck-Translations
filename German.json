@@ -10,6 +10,33 @@
 		"Next":"Weiter",
 		
 		
+		"SECTION: MENU ITEMS":"",
+	
+		"Bottle of Water":"Flasche Wasser",
+		"Burrito":"",
+		"Cheese Burger":"",
+		"Chicken Wings":"Hähnchenflügel",
+		"Citra Burst":"",
+		"Coffee":"Kaffee",
+		"Double Cheese Burger":"Doppelter Cheeseburger",
+		"Fish and Chips":"Fisch und Pommes",
+		"Fries":"Pommes",
+		"Hot Dog":"Würstchen im Brötchen",
+		"Jacket Potato [Beans]":"Ofenkartoffel mit Bohnen",
+		"Jacket Potato [Cheese & Beans]":"Ofenkartoffel mit Käse und Bohnen",
+		"Jacket Potato [Cheese]":"Ofenkartoffel mit Käse",
+		"Jacket Potato":"Ofenkartoffel",
+		"Lemon Lift":"",
+		"Margherita Pizza":"",
+		"Mozzarella Sticks":"Mozzarella Stäbchen",
+		"Onion Rings":"Zwiebelringe",
+		"Pepperoni Pizza":"",
+		"Pumpkin Pie":"Kürbiskuchen",
+		"Side Salad":"Beilagensalat",
+		"Taco":"",
+		"Vista Cola":"",
+		
+		
 		"SECTION: MAIN MENU":"",
 		
 		"Start":"Starten",
@@ -268,5 +295,19 @@
 		"tut_8:10_msg":"Du kannst den Standort des Trucks festlegen, das Menü anpassen und den Truck mit den Werkzeugen links vom Truck-Bild bearbeiten.",
 		"tut_8:11_msg":"Du kannst den Bericht des Managers anzeigen, indem du auf die Informationsschaltfläche klickst.",
 		"tut_8:12_msg":"Überprüfe den Fortschritt deines Managers am Ende jedes Tages und optimiere ihn, um mehr Geld zu verdienen!",
+	
+	
+		"SECTION: ORDER TICKETS":"",
+	
+		"ORDER":"BESTELLUNG",
+		"Total:":"Gesamt:",
+		
+		
+		"SECTION: MENU":"",
+	
+		"MENU":"SPEISEKARTE",
+		"MAINS":"HAUPTGERICHTE",
+		"SIDES":"BEILAGEN",
+		"DRINKS":"GETRÄNKE",
 	}
 }
