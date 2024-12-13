@@ -309,5 +309,21 @@
 		"MAINS":"HAUPTGERICHTE",
 		"SIDES":"BEILAGEN",
 		"DRINKS":"GETRÄNKE",
+			
+			
+		"SECTION: STOCK SCREEN":"",
+	
+		"ss.subtitle":"Sehen Sie sich Ihr aktuelles Inventar an und kaufen Sie mehr!",
+		"Event Price:":"Eventpreis:",
+		"STOCK TIP":"AKTIEN-TIPP",
+		"ss.tip.text":"Erhalten Sie 50 % Rabatt auf Ihren Einkauf, wenn Sie vor 8 Uhr oder auf dem Kartenbildschirm bestellen!",
+		"Your Stock":"Ihr Bestand",
+		"Current Cost":"Aktueller Preis",
+		"Purchase":"Kaufen",
+		"Refresh Stock":"Bestand aktualisieren",
+		"Stock:":"Warenbestand:",
+		"Mains":"Hauptgerichte",
+		"Sides":"Beilagen",
+		"Drinks":"Getränke",
 	}
 }
