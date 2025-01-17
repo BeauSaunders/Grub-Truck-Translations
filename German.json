@@ -7,7 +7,8 @@
 		"Cancel":"Abbrechen",
 		"No":"Nein",
 		"Back":"Zurück",
-		"Next":"Weiter",
+		"Next":"Nächster",
+		"Continue":"Weiter",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -325,5 +326,56 @@
 		"Mains":"Hauptgerichte",
 		"Sides":"Beilagen",
 		"Drinks":"Getränke",
+		"ss.pages.conf.st":"Bestellbestätigung",
+		"ss.pages.conf.msg":"Bestellung bestätigt! Vielen Dank für Ihr Geschäft.",
+		"ss.pages.fail.st":"Bestellung fehlgeschlagen",
+		"ss.pages.fail.msg.money":"Du hast nicht genug Geld dafür! Verringere den Bestellpreis.",
+		"ss.pages.fail.msg.storage":"Du hast nicht genug Speicherplatz dafür! Erhöhe deinen Lagerbestand, indem du mehr Kühlschränke kaufst, oder verringere die Menge, die du kaufen möchtest.",
+		
+		
+		"SECTION: OPEN/CLOSE TRUCK":"",
+	
+		"Open":"Geöffnet",
+		"Closed":"Geschlossen",
+		
+		
+		"SECTION: FINANCE SCREEN":"",
+	
+		"Finances":"Finanzen",
+		"Basics":"Grundlagen",
+		"Day:":"Tag:",
+		"Current Event:":"Aktuelles Ereignis:",
+		"Balance:":"Kontostand:",
+		
+		"Cash Flow":"Cashflow",
+		"Revenue:":"Umsatz:",
+		"Expenses:":"Ausgaben:",
+		"Profit:":"Gewinn:",
+		
+		"Customers Served:":"Bediente Kunden:",
+		"Most Popular Item:":"Beliebtestes Gericht:",
+		
+		"Loans":"Darlehen",
+		"Small Loan":"Kleinkredit",
+		"Medium Loan":"Mittelgroßer Kredit",
+		"Large Loan":"Großkredit",
+		"fs.loans.amount":"Betrag:",
+		"fs.loans.duration":"Laufzeit:",
+		"fs.loans.interest":"Zinsen:",
+		"fs.loans.cost":"Kosten:",
+		"fs.loans.take":"Aufnehmen",
+		"Days":"Tage",
+		"/day":"/tag",
+		
+		
+		"SECTION: CUSTOMER TRACKER":"",
+	
+		"Customer Tracker":"Kundenverfolgung",
+		"Warnings":"Warnungen",
+		"ct.warning.truckclosed":"Der Truck ist geschlossen!",
+		"ct.warning.emptymenu":"Nichts auf der Speisekarte!",
+		"Travelling":"Reise",
+		"In Queue":"In der Warteschlange",
+		
 	}
 }
