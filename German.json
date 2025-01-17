@@ -9,6 +9,9 @@
 		"Back":"Zurück",
 		"Next":"Nächster",
 		"Continue":"Weiter",
+		"Days":"Tage",
+		"/day":"/tag",
+		"Day(s)":"Tag(e)",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -364,8 +367,6 @@
 		"fs.loans.interest":"Zinsen:",
 		"fs.loans.cost":"Kosten:",
 		"fs.loans.take":"Aufnehmen",
-		"Days":"Tage",
-		"/day":"/tag",
 		
 		
 		"SECTION: CUSTOMER TRACKER":"",
@@ -376,6 +377,26 @@
 		"ct.warning.emptymenu":"Nichts auf der Speisekarte!",
 		"Travelling":"Reise",
 		"In Queue":"In der Warteschlange",
+		
+		
+		"SECTION: RATING PANEL":"",
+	
+		"Rating:":"Bewertung:",
+		"Effect:":"Effekt:",
+		"Time Left:":"Verbleibende Zeit:",
+		"Closed the truck with customers in the queue.": "Den Truck geschlossen, obwohl Kunden in der Warteschlange waren.",
+		"Quest Reward": "Quest-Belohnung",
+		"Console": "Konsole",
+		"Rain Cover": "Regenschutz",
+		"Attempted to serve an incorrect order": "Es wurde versucht, eine falsche Bestellung zu servieren.",
+		"A hot item was served cold": "Ein heißes Gericht wurde kalt serviert.",
+		"Menu features the Signature dish": "Die Speisekarte enthält das Signature-Gericht.",
+		"Some Menu Items": "Einige Speisekartenartikel",
+		"Decent Selection of Menu Items": "Angemessene Auswahl an Speisekartenartikeln",
+		"Wide Range of Menu Items": "Große Auswahl an Speisekartenartikeln",
+		"Reasonably Priced Menu": "Preislich angemessene Speisekarte",
+		"Expensive Menu": "Teure Speisekarte",
+		"Affordable Menu": "Erschwingliche Speisekarte",
 		
 	}
 }
