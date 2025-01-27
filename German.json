@@ -12,6 +12,7 @@
 		"Days":"Tage",
 		"/day":"/tag",
 		"Day(s)":"Tag(e)",
+		"Options":"Optionen",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -408,5 +409,28 @@
 		"Have a Fridge":"Einen Kühlschrank besitzen",
 		"Have an Oven":"Einen Ofen besitzen",
 		"Have an item on your menu":"Einen Artikel auf deiner Speisekarte haben",
+		
+		
+		"SECTION: BUILD MODE":"",
+	
+		"Build Mode":"Bau-Modus",
+		"Hotkeys":"Tastenkürzel",
+		"Rotate:":"Drehen:",
+		"Sell:":"Verkaufen:",
+		"Display Grid":"Raster anzeigen",
+		"Snap to Grid":"Am Raster ausrichten",
+		"Custom Rotation":"Benutzerdefinierte Drehung",
+		"Variations":"Variationen",
+		"Appliances":"Geräte",
+		"Service":"Kundenservice",
+		"Decorative":"Dekorativ",
+		"Signs":"Schilder",
+		"Lights & Misc":"Lichter & Sonstiges",
+		"Rating Bonus":"Bewertungsbonus",
+		"Cooking Speed":"Kochgeschwindigkeit",
+		"Stock Storage":"Lagerbestand",
+		"Burning Speed":"Brennrate",
+		"Collect tips from customers":"Tipps von Kunden sammeln",
+		"Rating Bonus when extended during rainny weather":"Bewertungsbonus bei ausgeklapptem Regenschutz während regnerischem Wetter"
 	}
 }
