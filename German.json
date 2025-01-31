@@ -437,6 +437,19 @@
 		"Stock Storage":"Lagerbestand",
 		"Burning Speed":"Brennrate",
 		"Collect tips from customers":"Tipps von Kunden sammeln",
-		"Rating Bonus when extended during rainny weather":"Bewertungsbonus bei ausgeklapptem Regenschutz während regnerischem Wetter"
+		"Rating Bonus when extended during rainny weather":"Bewertungsbonus bei ausgeklapptem Regenschutz während regnerischem Wetter",
+	
+	
+		"SECTION: TOOL TIPS":"",
+	
+		"Available in the Full Version.":"Verfügbar in der Vollversion.",
+		
+		
+		"SECTION: MISC":"",
+	
+		"Serving Counter":"Ausgabetheke",
+		"Complete Order":"Bestellung abschließen",
+		"Send Customer Away":"Kunden wegschicken",
+		"Tray":"Tablett",
 	}
 }
