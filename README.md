@@ -1,7 +1,7 @@
 <h1 align="center"> Grub Truck Translations </h1> <br>
 <p align="center">
   <a href="https://store.steampowered.com/app/2733690/Grub_Truck/">
-    <img alt="Grub Truck Translations" title="Grub Truck Translations" src="GT LOGO" width="450">
+    <img alt="Grub Truck Translations" title="Grub Truck Translations" src="https://i.imgur.com/EpEflIE.png" width="450">
   </a>
 </p>
 
@@ -11,11 +11,7 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/2733690/Grub_Truck/">
-    <img alt="Download Grub Truck on Stea" title="Steam Page" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
-
-  <a href="https://discord.gg/eMVsRU7PdF">
-    <img alt="Join the Community" title="Discord Server" src="http://i.imgur.com/mtGRPuM.png" width="140">
+    <img alt="Download Grub Truck on Stea" title="Steam Page" src="https://www.evolutiondigitalgame.com/wp-content/uploads/2019/01/steam-store-badge.png" width="200">
   </a>
 </p>
 
