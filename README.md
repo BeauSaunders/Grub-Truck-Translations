@@ -15,27 +15,19 @@
   </a>
 </p>
 
-##### Table of Contents  
-[Languages](#Languages)  
-[Tutorial/Wiki](#Tutorial/Wiki)   
-[Primary Contributors](#PrimaryContributors)
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-
 All of Grub Truck's base-game translations are publicly available here so that the community can advise better translations for their native language(s). If you think there is an improvement that could be made to the translation of a language in Grub Truck, you've come to the right place! 
 
 **Join our Community on Discord**
 
-<p align="center">
-  <img src = "https://discord.gg/eMVsRU7PdF" width=350>
+<p align="left">
+    <a href="https://discord.gg/eMVsRU7PdF">
+    <img alt="Stow Studios Discord Server" title="Discord" src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" width="100">
+  </a>
 </p>
 
 ## Languages
 
-The languages included in this repo and their current status
-
+The languages included in this repo and their current status:
 * German -> Fully Implemented
 
 ## Tutorial/Wiki
@@ -44,4 +36,4 @@ A wiki/tutorial is coming soon to explain how the system works soon... watch thi
 
 ## How to Contribute
 
-Contributions to these are translations are very much welcome! If you think believe there's an improvement you can make to a translation [PLACEHOLDER]
+Contributions to these are translations are very much welcome! If you think believe there's an improvement you can make to a translation create an issue ticket [here](https://github.com/BeauSaunders/Grub-Truck-Translations/issues). Ensure you state the language, the line number of the key, and the new translation.
