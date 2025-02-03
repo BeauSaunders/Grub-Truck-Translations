@@ -14,6 +14,7 @@
 		"Day(s)":"Tag(e)",
 		"Options":"Optionen",
 		"Normal Day":"Normaler Tag",
+		"Signature Dish":"Spezialität des Hauses",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -159,7 +160,29 @@
 		"Open Save Folder": "Speicherordner öffnen",
 		
 		
-		"SECTION: MAP SCREEN":"",
+		"SECTION: MAP SCREEN - LOCATION DESCRIPTIONS":"",
+		
+		"ms.Ash Stadium.desc":"Eingebettet in die lebendige Atmosphäre des Ash Football Stadium zieht dieser erstklassige Standort hungrige Sportfans und Enthusiasten an. Biete eine siegreiche Kombination aus köstlichen Snacks, die die Geschmacksnerven jubeln lässt!",
+		"ms.Aspen Office District.desc":"Im Herzen des Büroviertels gelegen, ist dieser Standort voller geschäftiger Büroangestellter, die auf der Suche nach hochwertigem Fast Food sind – eine ideale Position für erfahrene Grub-Truck-Unternehmen.",
+		"ms.Birchwood Park.desc":"Im Herzen von Chestnut Ridge bietet der Birchwood Park eine ruhige Oase fernab des hektischen Stadtlebens. Dank seiner zentralen Lage ist er der ideale Ort für einen Grub Truck, um einen stetigen Strom von Besuchern zu versorgen.",
+		"ms.Bonsai Bay.desc":"Umgeben von idyllischen Klippen und hungrigen Möwen zieht dieser Ort viele Touristen und Stadtbewohner an, die eine kurze Auszeit suchen – der perfekte Platz, um deinen Grub Truck aufzustellen!",
+		"ms.Cedarwood Heights.desc":"Da Cedarwood Heights die Heimat der meisten Bewohner von Chestnut Ridge ist und sich in der Nähe eines Industriegebiets befindet, ist es der perfekte Knotenpunkt für deinen Grub Truck, um die lebhafte lokale Gemeinschaft zu versorgen.",
+		"ms.Maple Drive.desc":"Jeder braucht Einkäufe, und dies ist der richtige Ort! Mit kostenfreien Parkplätzen und zahlreichen Geschäften in der Nähe ist Maple Drive ein Knotenpunkt für alle Arten von Einkäufern – ideal für jedes Grub Truck-Geschäft.",
+		"ms.Oakfield Market.desc":"Kommt alle, kommt alle! Der Oakfield Market ist der Knotenpunkt für all die alltäglichen Waren, die sich jeder wünschen könnte. Nutze die vollen Marktstände und stelle deinen Truck hier auf!",
+		"ms.Palm Tree Promenade.desc":"Die Palm Tree Promenade ist voller Touristen, Hafenarbeiter und Fischer – ein erstklassiger Ort für Food Truck Unternehmer. Präsentiere deine kulinarischen Köstlichkeiten in diesem lebendigen Hafenbereich.",
+		"ms.Sycamore Woods.desc":"Ein malerischer Ort in Sycamore Woods, an dem Wanderer und Touristen neue Energie tanken können. Perfekt für ein mobiles Food-Startup, umgeben von weitläufigen Waldwegen!",
+		"ms.Coming Soon.desc":"Dieser Standort ist derzeit im Bau...",
+		
+		
+		"SECTION: MAP SCREEN - LOCATION STATS":"",
+		
+		"Max Queue Size":"Maximale Warteschlangenlänge",
+		"Customers":"Kunden",
+		"Busyness":"Beschäftigungsgrad",
+		"Pitch Fee":"Standgebühr",
+		
+		
+		"SECTION: MAP SCREEN - MISC":"",
 		
 		"You Are Here":"Sie sind hier",
 		
@@ -438,8 +461,8 @@
 		"Burning Speed":"Brennrate",
 		"Collect tips from customers":"Tipps von Kunden sammeln",
 		"Rating Bonus when extended during rainny weather":"Bewertungsbonus bei ausgeklapptem Regenschutz während regnerischem Wetter",
-	
-	
+		
+		
 		"SECTION: TOOL TIPS":"",
 	
 		"Available in the Full Version.":"Verfügbar in der Vollversion.",
@@ -451,5 +474,6 @@
 		"Complete Order":"Bestellung abschließen",
 		"Send Customer Away":"Kunden wegschicken",
 		"Tray":"Tablett",
+		"misc.skipday":"Bist du sicher, dass du zum Ende des Tages überspringen möchtest?\n<size=75%>\n<i>(Dies wird alle verbleibenden Kunden wegschicken)</i>",
 	}
 }
