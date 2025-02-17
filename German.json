@@ -15,6 +15,7 @@
 		"Options":"Optionen",
 		"Normal Day":"Normaler Tag",
 		"Signature Dish":"Spezialität des Hauses",
+		"Build Mode":"Bau-Modus",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -185,6 +186,7 @@
 		"SECTION: MAP SCREEN - MISC":"",
 		
 		"You Are Here":"Sie sind hier",
+		"Set Up Here":"Hier einrichten",
 		
 		
 		"SECTION: GRUB RECRUITMENT WEBSITE":"",
@@ -442,7 +444,6 @@
 		
 		"SECTION: BUILD MODE":"",
 	
-		"Build Mode":"Bau-Modus",
 		"Hotkeys":"Tastenkürzel",
 		"Rotate:":"Drehen:",
 		"Sell:":"Verkaufen:",
@@ -483,6 +484,22 @@
 		"SECTION: TOOL TIPS":"",
 	
 		"Available in the Full Version.":"Verfügbar in der Vollversion.",
+		"tt.overlay.nextlevel":"Klicken, um die nächste Stufe vorzubereiten",
+		"tt.overlay.openclosetruck":"Klicken, um deinen Lkw zu öffnen/schließen",
+		"tt.overlay.quest":"Sieh dir die Quest deines Charakters an",
+		"tt.overlay.eventinfo":"Heute’s Veranstaltungsinfo",
+		"tt.overlay.skipday":"Aktuellen Tag überspringen",
+		"tt.overlay.menu":"Speisekarte ansehen/bearbeiten",
+		"tt.overlay.stockshop":"Klicken, um den Lager-Shop zu öffnen",
+		"tt.overlay.walltoggle":"Wandsichtbarkeit umschalten",
+		"tt.overlay.birdseye":"Vogelperspektive umschalten",
+		"tt.overlay.money":"Klicken, um das Finanzmenü zu öffnen",
+		"tt.overlay.customers":"Wie viele Kunden du hast",
+		"Manager Assignment":"Manager-Zuweisung",
+		"Location Assignment":"Standort-Zuweisung",
+		"Edit Truck":"Lkw bearbeiten",
+		"Edit Menu":"Speisekarte bearbeiten",
+		"Manager Report":"Manager-Bericht",
 		
 		
 		"SECTION: MISC":"",
