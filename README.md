@@ -29,6 +29,7 @@ All of Grub Truck's base-game translations are publicly available here so that t
 
 The languages included in this repo and their current status:
 * German -> Fully Implemented
+* Greek -> In-Development
 
 ## Tutorial/Wiki
 
