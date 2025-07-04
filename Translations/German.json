@@ -47,6 +47,9 @@
 		"Can of Lemon Lift":"Dose Lemon Lift",
 		"Can of Orchard Bliss":"Dose Orchard Bliss",
 		"Can of Vista Cola":"Dose Vista Cola",
+		"Toastie (Cheese and Tomato)":"Toastie (Käse und Tomate)",
+		"Toastie (Cheese)":"Toastie (Käse)",
+		"Toastie (Tuna Melt)":"Toastie (Thunfisch-Melt)",
 		
 		
 		"SECTION: MAIN MENU":"",
@@ -187,6 +190,7 @@
 		
 		"You Are Here":"Sie sind hier",
 		"Set Up Here":"Hier einrichten",
+		"tt.dlcLocBut":"DLC-Orte anzeigen",
 		
 		
 		"SECTION: GRUB RECRUITMENT WEBSITE":"",
