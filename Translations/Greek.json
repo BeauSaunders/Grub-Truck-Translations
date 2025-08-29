@@ -17,6 +17,10 @@
 		"Signature Dish":"Σπεσιαλιτέ του σεφ",  
 		"Build Mode":"Λειτουργία κατασκευής",
 		"Loading...":"Φόρτωση...",
+		"Use":"Χρήση",
+		"Sell":"Πώληση",
+		"Purchase":"Αγορά",
+		"In Use":"Σε χρήση",
 
 		
 		"SECTION: MENU ITEMS":"",
@@ -232,6 +236,17 @@
 		"Wage": "Άγνωστο",
 		"ms.gr.wageday": "Ημέρα",
 		"Assigned Truck": "Ανατεθειμένο Φορτηγό",	
+		
+		
+		"SECTION: ROLLING BITES WEBSITE":"",
+		
+		"ms.rb.subtitle":"Ο κορυφαίος πωλητής Grub Trucks στον κόσμο",
+		
+		
+		"SECTION: GRUB TRUCK GARAGE WEBSITE":"",
+		
+		"ms.gtg.title":"Γκαράζ Grub Truck",
+		"ms.gtg.subtitle":"Δείτε και διαχειριστείτε τα Grub Truck σας από ένα μέρος!",
 		
 		
 		"SECTION: TUTORIALS":"",
