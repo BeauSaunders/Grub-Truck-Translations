@@ -16,6 +16,7 @@
 		"Normal Day":"Normaler Tag",
 		"Signature Dish":"Spezialität des Hauses",
 		"Build Mode":"Bau-Modus",
+		"Loading...":"Wird geladen...",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -232,7 +233,7 @@
 		"Legendary": "Legendär",
 		"Unknown": "Unbekannt",
 		"Wage": "Unbekannt",
-		"ms.gr.wageday": "Tag",
+		"day": "Tag",
 		"Assigned Truck": "Zugewiesenes Fahrzeug",		
 		
 		
