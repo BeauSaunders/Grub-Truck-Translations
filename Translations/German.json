@@ -17,6 +17,10 @@
 		"Signature Dish":"Spezialität des Hauses",
 		"Build Mode":"Bau-Modus",
 		"Loading...":"Wird geladen...",
+		"Use":"Benutzen",
+		"Sell":"Verkaufen",
+		"Purchase":"Kaufen",
+		"In Use":"In Benutzung",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -235,6 +239,17 @@
 		"Wage": "Unbekannt",
 		"day": "Tag",
 		"Assigned Truck": "Zugewiesenes Fahrzeug",		
+		
+		
+		"SECTION: ROLLING BITES WEBSITE":"",
+		
+		"ms.rb.subtitle":"Der weltweit beste Verkäufer von Grub Trucks",
+		
+		
+		"SECTION: GRUB TRUCK GARAGE WEBSITE":"",
+		
+		"ms.gtg.title":"Grub Truck Werkstatt",
+		"ms.gtg.subtitle":"Sehen und verwalten Sie Ihre Grub Trucks an einem Ort!",
 		
 		
 		"SECTION: TUTORIALS":"",
