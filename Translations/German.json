@@ -55,6 +55,13 @@
 		"Toastie (Cheese and Tomato)":"Toastie (Käse und Tomate)",
 		"Toastie (Cheese)":"Toastie (Käse)",
 		"Toastie (Tuna Melt)":"Toastie (Thunfisch-Melt)",
+		"Bowl of Olives": "Schüssel Oliven",
+		"Chicken Gyros": "Hähnchen Gyros",
+		"Greek Salad": "Griechischer Salat",
+		"Halloumi Fries": "Halloumi Pommes",
+		"Lamb Gyros": "Lamm Gyros",
+		"Pork Gyros": "Schweine Gyros",
+		"Souvlaki": "Souvlaki",
 		
 		
 		"SECTION: MAIN MENU":"",
@@ -195,7 +202,8 @@
 		
 		"You Are Here":"Sie sind hier",
 		"Set Up Here":"Hier einrichten",
-		"tt.dlcLocBut":"DLC-Orte anzeigen",
+		"ms.dlcLocBut":"DLC-Orte anzeigen",
+		"ms.backToMainMapBut":"Zurück zur Hauptkarte",
 		
 		
 		"SECTION: GRUB RECRUITMENT WEBSITE":"",
