@@ -52,8 +52,18 @@
 		"Can of Lemon Lift":"Κουτί Lemon Lift",  
 		"Can of Orchard Bliss":"Κουτί Orchard Bliss",  
 		"Can of Vista Cola":"Κουτί Vista Cola",  
+		"Toastie (Cheese and Tomato)":"Τοστ (Τυρί και Ντομάτα)",
+		"Toastie (Cheese)":"Τοστ (Τυρί)",
+		"Toastie (Tuna Melt)":"Τοστ (Τόνου Με Τυρί)",
+		"Bowl of Olives": "Μπολ με Ελιές",
+		"Chicken Gyros": "Γύρος Κοτόπουλο",
+		"Greek Salad": "Χωριάτικη Σαλάτα",
+		"Halloumi Fries": "Χαλούμι Τηγανητό",
+		"Lamb Gyros": "Γύρος Αρνίσιος",
+		"Pork Gyros": "Γύρος Χοιρινός",
+		"Souvlaki": "Σουβλάκι",
 
-		
+
 		"SECTION: MAIN MENU":"",
 		
 		"Start":"Έναρξη",  
@@ -192,7 +202,8 @@
 		
 		"You Are Here": "Είστε εδώ",
 		"Set Up Here": "Στήστε εδώ",
-		"tt.dlcLocBut":"Περιοχές DLC",
+		"ms.dlcLocBut":"Περιοχές DLC",
+		"ms.backToMainMapBut":"Επιστροφή στον Κύριο Χάρτη",
 		
 		
 		"SECTION: GRUB RECRUITMENT WEBSITE":"",
