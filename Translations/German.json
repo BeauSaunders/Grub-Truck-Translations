@@ -21,6 +21,7 @@
 		"Sell":"Verkaufen",
 		"Purchase":"Kaufen",
 		"In Use":"In Benutzung",
+		"Clean Dishes":"Geschirr spülen",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -175,6 +176,7 @@
 		"Reset All UI Positions": "Alle UI-Positionen zurücksetzen",
 		"View Log File": "Protokolldatei anzeigen",
 		"Open Save Folder": "Speicherordner öffnen",
+		"Licenses":"Lizenzen",
 		
 		
 		"SECTION: MAP SCREEN - LOCATION DESCRIPTIONS":"",
@@ -253,12 +255,18 @@
 		"SECTION: ROLLING BITES WEBSITE":"",
 		
 		"ms.rb.subtitle":"Der weltweit beste Verkäufer von Grub Trucks",
+		"ms.rb.thanks":"Bestellung bestätigt! Vielen Dank für Ihren Einkauf.",
+		"ms.rb.notenoughmoney":"Du hast nicht genug Geld für diesen LKW.",
+		"ms.rb.details.stats.titles":"Preis:\nGrundfläche:",
 		
 		
 		"SECTION: GRUB TRUCK GARAGE WEBSITE":"",
 		
 		"ms.gtg.title":"Grub Truck Werkstatt",
 		"ms.gtg.subtitle":"Sehen und verwalten Sie Ihre Grub Trucks an einem Ort!",
+		"Use Truck":"Truck benutzen",
+		"ms.gtg.unassignConf":"Durch die Nutzung dieses LKWs wird %1 vorübergehend von %2 abgezogen, bleibt jedoch für andere Aufgaben verfügbar.",
+		"ms.gtg.managerConf":"Dies wird %1 von %2 abziehen und sie %3 zuweisen.",
 		
 		
 		"SECTION: TUTORIALS":"",
