@@ -21,6 +21,7 @@
 		"Sell":"Πώληση",
 		"Purchase":"Αγορά",
 		"In Use":"Σε χρήση",
+		"Clean Dishes":"Καθάρισμα Πιάτων",
 
 		
 		"SECTION: MENU ITEMS":"",
@@ -174,7 +175,8 @@
 		"Don't Save UI Positions": "Μην αποθηκεύετε τις θέσεις του UI",  
 		"Reset All UI Positions": "Επαναφορά όλων των θέσεων του UI",  
 		"View Log File": "Εμφάνιση αρχείου καταγραφής",  
-		"Open Save Folder": "Άνοιγμα φακέλου αποθήκευσης",  
+		"Open Save Folder": "Άνοιγμα φακέλου αποθήκευσης",
+		"Licenses":"Άδειες",
 
 		
 		"SECTION: MAP SCREEN - LOCATION DESCRIPTIONS":"",
@@ -253,12 +255,18 @@
 		"SECTION: ROLLING BITES WEBSITE":"",
 		
 		"ms.rb.subtitle":"Ο κορυφαίος πωλητής Grub Trucks στον κόσμο",
+		"ms.rb.thanks":"Η παραγγελία επιβεβαιώθηκε! Σας ευχαριστούμε για την αγορά σας.",
+		"ms.rb.notenoughmoney":"Δεν έχεις αρκετά χρήματα για αυτό το φορτηγό.",
+		"ms.rb.details.stats.titles":"Τιμή:\nΧώρος ορόφου:",
 		
 		
 		"SECTION: GRUB TRUCK GARAGE WEBSITE":"",
 		
 		"ms.gtg.title":"Γκαράζ Grub Truck",
 		"ms.gtg.subtitle":"Δείτε και διαχειριστείτε τα Grub Truck σας από ένα μέρος!",
+		"Use Truck":"Χρησιμοποίησε το φορτηγό",
+		"ms.gtg.unassignConf":"Χρησιμοποιώντας αυτό το φορτηγό, το %1 θα αποδεσμευτεί προσωρινά από το %2 αλλά θα είναι διαθέσιμο για άλλες αναθέσεις.",
+		"ms.gtg.managerConf":"Αυτό θα αποδεσμεύσει το %1 από το %2 και θα το αναθέσει στο %3",
 		
 		
 		"SECTION: TUTORIALS":"",
