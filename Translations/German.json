@@ -22,6 +22,7 @@
 		"Purchase":"Kaufen",
 		"In Use":"In Benutzung",
 		"Clean Dishes":"Geschirr spülen",
+		"Day(s) ago":"Tag(e) zuvor",
 		
 		
 		"SECTION: MENU ITEMS":"",
@@ -537,6 +538,17 @@
 		"Edit Truck":"Lkw bearbeiten",
 		"Edit Menu":"Speisekarte bearbeiten",
 		"Manager Report":"Manager-Bericht",
+		"tt.overlay.inspectionreport":"Hygiene-Kontrollbericht",
+		
+		
+		"SECTION: INSPECTION REPORT":"",
+		"ir.title":"Inspektionsbericht",
+		"ir.noreport":"Noch kein Bericht…",
+		"ir.score":"Punktzahl",
+		"No Bins":"Keine Mülleimer",
+		"Full Bin(s)":"Voller Mülleimer",
+		"No Sinks":"Keine Spülen",
+		"Full Sink(s)":"Voller Spüle",
 		
 		
 		"SECTION: MISC":"",
