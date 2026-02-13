@@ -22,6 +22,7 @@
 		"Purchase":"Αγορά",
 		"In Use":"Σε χρήση",
 		"Clean Dishes":"Καθάρισμα Πιάτων",
+		"Day(s) ago":"Ημέρα(ες) πριν",
 
 		
 		"SECTION: MENU ITEMS":"",
@@ -537,7 +538,18 @@
 		"Edit Truck": "Επεξεργασία Φορτηγού",
 		"Edit Menu": "Επεξεργασία Μενού",
 		"Manager Report": "Έκθεση Διευθυντή",
+		"tt.overlay.inspectionreport":"Έκθεση Υγειονομικού Ελέγχου",
 		
+		
+		"SECTION: INSPECTION REPORT":"",
+		"ir.title":"Έκθεση Επιθεώρησης",
+		"ir.noreport":"Δεν υπάρχει ακόμη έκθεση…",
+		"ir.score":"Βαθμολογία",
+		"No Bins":"Δεν υπάρχουν κάδοι",
+		"Full Bin(s)":"Γεμάτος κάδος",
+		"No Sinks":"Δεν υπάρχουν νεροχύτες",
+		"Full Sink(s)":"Γεμάτος νεροχύτης",
+
 		
 		"SECTION: MISC":"",
 	
